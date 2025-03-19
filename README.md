@@ -6,7 +6,13 @@ Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 in
 
 # Questionnaire responses
 
-![Questioannaire Results](https://github.com/crstn/Academy25/blob/main/questionnaire.png?raw=true)
+![Questionnaire Results](https://github.com/crstn/Academy25/blob/main/questionnaire.png?raw=true)
+
+---
+
+![QR](https://github.com/crstn/Academy25/blob/main/qr.png?raw=true)
+
+---
 
 # Program
 
