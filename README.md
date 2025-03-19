@@ -19,8 +19,9 @@ Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 in
 0. Background: [Reproducible Research](https://reproducible-agile.github.io)
 1. Reproducible Python Code with [Jupyter4NFDI](https://nfdi-jupyter.de/users/jupyterlab/repo2docker/)
 2. Vector basics: [Shapely](https://shapely.readthedocs.io/en/stable/manual.html#spatial-data-model), [OGC Simple Features](https://docs.qgis.org/3.40/en/docs/training_manual/spatial_databases/simple_feature_model.html), [GDAL](https://gdal.org/en/stable/), [FIONA](https://fiona.readthedocs.io/en/stable/)
-3. 
-
+3. GeoPackages for [simple local data management](https://github.com/crstn/Academy25/blob/main/GeoPandas%20and%20GeoPackage.ipynb)
+4. [Raster processing and compression](https://github.com/crstn/Academy25/blob/main/Raster%20processing%20and%20compression.ipynb)
+5. Network analysis with [OSMnx](https://github.com/gboeing/osmnx-examples)
 
 
 [![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/crstn/Academy25)
