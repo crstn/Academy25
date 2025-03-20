@@ -22,7 +22,7 @@ Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 in
 3. GeoPackages for [simple local data management](https://github.com/crstn/Academy25/blob/main/GeoPandas%20and%20GeoPackage.ipynb)
 4. [Raster processing and compression](https://github.com/crstn/Academy25/blob/main/Raster%20processing%20and%20compression.ipynb)
 5. Network analysis with [OSMnx](https://github.com/gboeing/osmnx-examples)
-6. Spatial autocorrelation with PySAL
+6. [Spatial autocorrelation](https://github.com/crstn/Academy25/blob/main/Spatial%20Autocorrelation.ipynb) with PySAL
 
 More: **https://edutrain.nfdi4earth.de**
 
