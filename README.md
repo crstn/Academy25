@@ -26,7 +26,7 @@ Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 in
 
 More: **https://edutrain.nfdi4earth.de**
 
-[![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/crstn/Academy25)
+[![NFDI](https://nfdi-jupyter.de/images/nfdi_badge.svg)](https://hub.nfdi-jupyter.de/r2d/gh/crstn/Academy25/HEAD)
 
 
 
