@@ -2,7 +2,7 @@
 
 # Academy Workshop, March 2025
 
-Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 in Cologne, compiled by [Carsten Keßler](http://carsten.io)
+Notebooks and materials for the NFDI4Earth Academy Workshop on March 20, 2025 at University of Cologne, compiled by [Carsten Keßler](http://carsten.io)
 
 # Questionnaire responses
 
